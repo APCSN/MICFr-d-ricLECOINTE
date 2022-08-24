@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 15.5//EN
+N:Lecointe;Frédéric;;;
+FN:Frédéric Lecointe
+ORG:MATT IMMO CONSEIL;
+EMAIL;type=INTERNET;type=HOME;type=pref:frederic@mattimmoconseil.fr
+TEL;type=CELL;type=VOICE;type=pref:06 87 06 67 53
+item1.URL;type=pref:https://mattimmoconseil.fr
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
